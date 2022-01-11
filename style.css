@@ -1,0 +1,29 @@
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.black{
+    background-color: black;
+}
+.yellow{
+    background-color: yellow;
+}
+.brown{
+    background-color: brown;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: pink;
+}
+.block{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.border{
+    border: 3px solid orange;
+}
